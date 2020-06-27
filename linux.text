@@ -224,3 +224,4 @@ diff [オプション] ファイル名1 ファイル名2
 〜オプション〜
 -c : context diff 形式で差分を出力
 -u : unified diff 形式で差分を出力
+
